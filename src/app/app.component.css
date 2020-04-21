@@ -1,4 +1,15 @@
 .box {
     display: flex;
     padding: 10px;
-}
+    display: inline-flex;
+ }
+
+ html{
+     text-align: center;
+     background: linear-gradient(135deg,rgb(54, 170, 54) 50%, cyan);
+     padding: 10px 10px 20px 10px;
+     border: 1px solid #BFBFBF;
+     background-color: white;
+     box-shadow: 10px 10px 5px #aaaaaa;
+     border-radius: 10px;
+ }
